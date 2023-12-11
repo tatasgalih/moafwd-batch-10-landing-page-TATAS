@@ -1,0 +1,45 @@
+#HargaHosting{
+    background-color: #f5faff ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#nav{
+    background-color: #005cb8
+}
+#card-body {
+    border-style: solid;
+  border-color: red
+}
+col{
+    border-style: solid;
+  border-width: 5px;
+}
+p{
+    color: #01012e;
+}
+.btn-primary-orange {
+    color: #fff;
+    background-color: #FF8A01 ;
+    border-color: #FF8A01;
+    transition-duration: 0.4s;
+}
+.btn-primary-orange:hover {
+  color: #fff;
+  background-color: #44365A;
+  border-color: #44365A;
+  transition-duration: 0.4s;
+}
+.btn-primary{
+    color: #fff;
+    background-color: #FF8A01 ;
+    border-color: #FF8A01;
+    transition-duration: 0.4s
+}
+footer{
+    
+    background-color: #f5faff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
